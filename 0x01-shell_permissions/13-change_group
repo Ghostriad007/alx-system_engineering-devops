@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp elixir hello
+chgrp holberton hello
